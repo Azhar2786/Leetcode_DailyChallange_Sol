@@ -1,4 +1,4 @@
-//!  1980. Find Unique Binary Strin
+//!  1980. Find Unique Binary String
 
 
 class Solution {
